@@ -1,5 +1,3 @@
-# shifulpiashNew
-Config files for my GitHub profile.
 # 💫 About Me:
 🚀 I’m MD Shiful Islam Piash, a Software Engineer with a strong foundation in  Software engineering, <br>Web development, and AI research. I focus on building scalable, user-centric applications <br>using modern technologies and best coding practices.<br><br>💻 I have hands-on experience in full-stack development, database systems, and real-world<br> project implementation. Alongside development, I have a solid academic background in <br>machine learning and deep learning, with a published research paper in this field.
 
