@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-🚀 Software Engineer | Software Quality Assurance | Full-Stack Developer | AI Researcher
-- Learning Software Quality Assurance & Test Automation
-- Published research in Machine Learning & Deep Learning
+🚀 Software Engineer | Software Quality Assurance | Full-Stack Developer | AI Researcher <br>
+- Learning Software Quality Assurance & Test Automation <br>
+- Published research in Machine Learning & Deep Learning <br>
 - Building scalable applications with modern technologies
 <br clear="right"/>
 
