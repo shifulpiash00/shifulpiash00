@@ -1,10 +1,8 @@
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-🚀 I’m MD Shiful Islam Piash, a Software Engineer with a strong foundation in  Software engineering, Web development, and AI research. I focus on building scalable, user-centric applications using modern technologies and best coding practices.<br><br>💻 I have hands-on experience in full-stack development, database systems, and real-world project implementation. Alongside development, I have a solid academic background in machine learning and deep learning, with a published research paper in this field.
+🚀 I’m MD Shiful Islam Piash, a Software Engineer with a strong foundation in  Software engineering, Web development, and AI research. I focus on building scalable, user-centric applications using modern technologies and best coding practices.<br><br>💻 I have hands-on experience in full-stack development, database systems, and real-world project implementation. Alongside development, I have a solid academic background in machine learning and deep learning, with a published research paper in this field. <br>
 
-<br>
-<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spiash00-asdfgh12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shifulpiash00@gmail.com) 
 
