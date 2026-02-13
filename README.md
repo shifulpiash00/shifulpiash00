@@ -5,13 +5,12 @@
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<div align=""center">
-  < 🚀 Software Engineer | Software Quality Assurance | Full-Stack Developer | AI Researcher <br>
+ 🚀 Software Engineer | Software Quality Assurance | Full-Stack Developer | AI Researcher <br>
 - Learning Software Quality Assurance & Test Automation <br>
 - Published research in Machine Learning & Deep Learning <br>
 - Building scalable applications with modern technologies
-<br clear="right"/> >
-</div>
+<br clear="right"/> 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spiash00-asdfgh12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shifulpiash00@gmail.com) 
