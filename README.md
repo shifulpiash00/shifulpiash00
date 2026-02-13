@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./image/banner.png" width="100%"/>
+</div>
+
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
